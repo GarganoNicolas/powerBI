@@ -1,0 +1,152 @@
+,Category,Date Entered,Product Name,Supplier,Unit Price,Units In Stock,Units On Order,Reorder Level,Discontinued
+0,Frames,2022-01-23,14City,Imortadores Neptuno,4.5,200,0,0,Yes
+1,Frames,2022-01-23,Rac564,Imortadores Neptuno,4.5,200,0,0,Yes
+2,Frames,2023-08-21,Rac325,Imortadores Neptuno,9.5,360,0,0,No
+3,Frames,2023-08-21,A2Mountain,Imortadores Neptuno,9.5,360,0,0,No
+4,Tyres,2023-08-06,Clincher,Tyresaz,12.0,950,0,0,No
+5,Tyres,2023-08-06,Tubular,Tyresaz,12.0,950,0,0,No
+6,Brake System,2021-12-19,Levers,Cyclesaz,14.0,260,0,0,Yes
+7,Brake System,2021-12-19,Pads,Cyclesaz,14.0,260,0,0,Yes
+8,Frames,2023-07-27,14City,Imortadores Neptuno,21.05,760,0,0,No
+9,Frames,2023-07-27,Rac564,Imortadores Neptuno,21.05,760,0,0,No
+10,Frames,2022-01-02,Rac325,Imortadores Neptuno,21.35,0,0,0,Yes
+11,Frames,2022-01-02,A1Mountain,Imortadores Neptuno,21.35,0,0,0,Yes
+12,Gear Components,2023-08-01,derailleurs,Z123,21.5,260,0,0,No
+13,Gear Components,2023-08-01,belt drives,Z123,21.5,260,0,0,No
+14,Frames,2022-01-01,Rac564,Imortadores Neptuno,22.0,530,0,0,No
+15,Frames,2022-01-01,14City,Imortadores Neptuno,22.0,530,0,0,No
+16,Tyres,2021-12-27,Tubular,Tyresaz,23.25,350,0,0,No
+17,Tyres,2021-12-27,Clincher,Tyresaz,23.25,350,0,0,No
+18,Tyres,2022-02-01,Clincher,Tyresaz,31.0,310,0,0,No
+19,Tyres,2022-02-01,Tubeless,Tyresaz,31.0,310,0,0,No
+20,Frames,2021-12-15,A2Mountain,Imortadores Neptuno,31.23,150,0,0,No
+21,Frames,2021-12-15,A2Mountain,Imortadores Neptuno,31.23,150,0,0,No
+22,Saddles,2023-09-13,Narrow,Sadleab,32.8,0,0,0,Yes
+23,Saddles,2023-09-13,Narrow,Sadleab,32.8,0,0,0,Yes
+24,Gear Components,2021-10-18,Chain,Z123,34.0,190,0,0,No
+25,Gear Components,2021-10-18,shifter,Z123,34.0,190,0,0,No
+26,Gear Components,2023-06-20,shifter,Z123,34.8,140,0,0,No
+27,Gear Components,2023-06-20,shifter,Z123,34.8,140,0,0,No
+28,Gear Components,2021-07-22,derailleurs,Z123,38.0,860,0,0,No
+29,Gear Components,2021-07-22,derailleurs,Z123,38.0,860,0,0,No
+30,Saddles,2022-01-12,All weather,Sadleab,39.0,0,0,0,Yes
+31,Saddles,2022-01-12,Comfort,Sadleab,39.0,0,0,0,Yes
+32,Frames,2021-12-05,Zelectric,Imortadores Neptuno,40.0,60,0,0,No
+33,Frames,2021-12-05,Zelectric,Imortadores Neptuno,40.0,60,0,0,No
+34,Tyres,2022-01-18,Tubeless,Tyresaz,45.6,260,0,0,Yes
+35,Tyres,2022-01-18,Tubular,Tyresaz,45.6,260,0,0,Yes
+36,Frames,2021-09-08,Rac325,Imortadores Neptuno,49.3,170,0,0,No
+37,Frames,2021-09-08,A2Mountain,Imortadores Neptuno,49.3,170,0,0,No
+38,Gear Components,2021-10-10,belt drives,Z123,55.0,790,0,0,No
+39,Gear Components,2021-10-10,Chain,Z123,55.0,790,0,0,No
+40,Tyres,2022-01-13,Tubular,Tyresaz,62.5,420,0,0,No
+41,Tyres,2022-01-13,Clincher,Tyresaz,62.5,420,0,0,No
+42,Frames,2022-01-26,A2Mountain,Imortadores Neptuno,81.0,400,0,0,No
+43,Frames,2022-01-26,Zelectric,Imortadores Neptuno,81.0,400,0,0,No
+44,Saddles,2022-01-31,All weather,Sadleab,97.0,290,0,0,Yes
+45,Saddles,2022-01-31,All weather,Sadleab,97.0,290,0,0,Yes
+46,Saddles,2022-01-19,Comfort,Sadleab,123.79,0,0,0,Yes
+47,Saddles,2022-01-19,All weather,Sadleab,123.79,0,0,0,Yes
+48,Tyres,2021-12-26,Clincher,Tyresaz,6.0,240,0,5,No
+49,Tyres,2021-12-26,Clincher,Tyresaz,6.0,240,0,5,No
+50,Frames,2022-01-25,Rac325,Imortadores Neptuno,9.2,250,0,5,No
+51,Frames,2022-01-25,14City,Imortadores Neptuno,9.2,250,0,5,No
+52,Frames,2022-01-24,A1Mountain,Imortadores Neptuno,10.0,30,40,5,No
+53,Frames,2022-01-24,Zelectric,Imortadores Neptuno,10.0,30,40,5,No
+54,Tyres,2023-07-25,Tubeless,Tyresaz,10.0,40,20,5,No
+55,Tyres,2023-07-25,Tubeless,Tyresaz,10.0,40,20,5,No
+56,Tyres,2023-06-06,Clincher,Tyresaz,15.0,1010,0,5,No
+57,Tyres,2023-06-06,Clincher,Tyresaz,15.0,1010,0,5,No
+58,Frames,2021-12-28,Zelectric,Imortadores Neptuno,15.5,390,0,5,No
+59,Frames,2021-12-28,Rac564,Imortadores Neptuno,15.5,390,0,5,No
+60,Frames,2021-06-12,A1Mountain,Imortadores Neptuno,18.0,690,0,5,No
+61,Frames,2021-06-12,Zelectric,Imortadores Neptuno,18.0,690,0,5,No
+62,Frames,2022-01-14,Rac564,Imortadores Neptuno,43.9,240,0,5,No
+63,Frames,2022-01-14,Zelectric,Imortadores Neptuno,43.9,240,0,5,No
+64,Saddles,2023-08-18,Racing,Sadleab,7.45,210,0,10,No
+65,Saddles,2023-08-18,Narrow,Sadleab,7.45,210,0,10,No
+66,Tyres,2021-12-31,Clincher,Tyresaz,9.65,850,0,10,No
+67,Tyres,2021-12-31,Tubular,Tyresaz,9.65,850,0,10,No
+68,Frames,2023-07-03,A2Mountain,Imortadores Neptuno,14.0,520,0,10,No
+69,Frames,2023-07-03,Rac325,Imortadores Neptuno,14.0,520,0,10,No
+70,Frames,2022-01-11,Rac564,Imortadores Neptuno,17.45,290,0,10,No
+71,Frames,2022-01-11,Rac325,Imortadores Neptuno,17.45,290,0,10,No
+72,Frames,2021-08-07,A1Mountain,Imortadores Neptuno,18.0,390,0,10,No
+73,Frames,2021-08-07,Rac325,Imortadores Neptuno,18.0,390,0,10,No
+74,Tyres,2021-11-27,Clincher,Tyresaz,30.0,150,0,10,No
+75,Tyres,2021-11-27,Tubular,Tyresaz,30.0,150,0,10,No
+76,Tyres,2023-08-11,Tubeless,Tyresaz,53.0,200,0,10,No
+77,Tyres,2023-08-11,Clincher,Tyresaz,53.0,200,0,10,No
+78,Tyres,2023-08-05,Tubular,Tyresaz,9.5,50,70,15,No
+79,Tyres,2023-08-05,Clincher,Tyresaz,9.5,50,70,15,No
+80,Frames,2023-07-25,Rac325,Imortadores Neptuno,12.5,60,10,15,No
+81,Frames,2023-07-25,Rac564,Imortadores Neptuno,12.5,60,10,15,No
+82,Frames,2023-07-26,Rac564,Imortadores Neptuno,13.0,320,0,15,No
+83,Frames,2023-07-26,Rac325,Imortadores Neptuno,13.0,320,0,15,No
+84,Frames,2021-06-20,Rac564,Imortadores Neptuno,14.0,1110,0,15,No
+85,Frames,2021-06-20,14City,Imortadores Neptuno,14.0,1110,0,15,No
+86,Frames,2021-06-28,Rac325,Imortadores Neptuno,18.0,200,0,15,No
+87,Frames,2021-06-28,Rac325,Imortadores Neptuno,18.0,200,0,15,No
+88,Frames,2021-12-21,Rac564,Imortadores Neptuno,19.45,270,0,15,No
+89,Frames,2021-12-21,Rac325,Imortadores Neptuno,19.45,270,0,15,No
+90,Frames,2023-08-06,Zelectric,Imortadores Neptuno,20.0,100,60,15,No
+91,Frames,2023-08-06,14City,Imortadores Neptuno,20.0,100,60,15,No
+92,Tyres,2022-01-05,Tubeless,Tyresaz,25.89,100,0,15,No
+93,Tyres,2022-01-05,Tubular,Tyresaz,25.89,100,0,15,No
+94,Gear Components,2023-06-15,Crankset,Z123,36.0,260,0,15,No
+95,Gear Components,2023-06-15,Crankset,Z123,36.0,260,0,15,No
+96,Frames,2021-05-11,A2Mountain,Imortadores Neptuno,263.5,170,0,15,No
+97,Frames,2021-05-11,A2Mountain,Imortadores Neptuno,263.5,170,0,15,No
+98,Gear Components,2022-01-06,Crankset,Z123,2.5,1120,0,20,No
+99,Gear Components,2022-01-06,belt drives,Z123,2.5,1120,0,20,No
+100,Gear Components,2021-09-16,belt drives,Z123,12.5,0,70,20,No
+101,Gear Components,2021-09-16,belt drives,Z123,12.5,0,70,20,No
+102,Tyres,2021-07-30,Tubeless,Tyresaz,13.25,620,0,20,No
+103,Tyres,2021-07-30,Clincher,Tyresaz,13.25,620,0,20,No
+104,Frames,2023-07-27,A1Mountain,Imortadores Neptuno,17.0,40,100,20,No
+105,Frames,2023-07-27,A2Mountain,Imortadores Neptuno,17.0,40,100,20,No
+106,Frames,2023-07-01,Zelectric,Imortadores Neptuno,18.0,570,0,20,No
+107,Frames,2023-07-01,Rac564,Imortadores Neptuno,18.0,570,0,20,No
+108,Tyres,2022-01-28,Tubeless,Tyresaz,19.0,1120,0,20,No
+109,Tyres,2022-01-28,Tubeless,Tyresaz,19.0,1120,0,20,No
+110,Brake System,2022-01-10,Pads,Cyclesaz,19.5,360,0,20,No
+111,Brake System,2022-01-10,Levers,Cyclesaz,19.5,360,0,20,No
+112,Saddles,2023-08-09,Narrow,Sadleab,24.0,1150,0,20,No
+113,Saddles,2023-08-09,All weather,Sadleab,24.0,1150,0,20,No
+114,Brake System,2023-09-12,Levers,Cyclesaz,7.0,380,0,25,No
+115,Brake System,2023-09-12,Cables,Cyclesaz,7.0,380,0,25,No
+116,Frames,2023-08-03,Zelectric,Imortadores Neptuno,7.75,1250,0,25,No
+117,Frames,2023-08-03,14City,Imortadores Neptuno,7.75,1250,0,25,No
+118,Frames,2021-08-23,Zelectric,Imortadores Neptuno,10.0,130,70,25,No
+119,Frames,2021-08-23,A1Mountain,Imortadores Neptuno,10.0,130,70,25,No
+120,Frames,2023-09-05,A2Mountain,Imortadores Neptuno,12.75,150,70,25,No
+121,Frames,2023-09-05,A1Mountain,Imortadores Neptuno,12.75,150,70,25,No
+122,Frames,2021-08-15,A2Mountain,Imortadores Neptuno,19.0,170,40,25,No
+123,Frames,2021-08-15,A2Mountain,Imortadores Neptuno,19.0,170,40,25,No
+124,Frames,2021-11-19,14City,Imortadores Neptuno,25.0,120,0,25,No
+125,Frames,2021-11-19,A2Mountain,Imortadores Neptuno,25.0,120,0,25,No
+126,Tyres,2022-01-29,Tubeless,Tyresaz,26.0,110,50,25,No
+127,Tyres,2022-01-29,Tubeless,Tyresaz,26.0,110,50,25,No
+128,Frames,2021-08-31,A2Mountain,Imortadores Neptuno,28.5,1130,0,25,No
+129,Frames,2021-08-31,Rac325,Imortadores Neptuno,28.5,1130,0,25,No
+130,Gear Components,2021-09-24,shifter,Z123,32.0,90,40,25,No
+131,Gear Components,2021-09-24,shifter,Z123,32.0,90,40,25,No
+132,Frames,2021-12-20,14City,Imortadores Neptuno,46.0,170,10,25,No
+133,Frames,2021-12-20,Rac564,Imortadores Neptuno,46.0,170,10,25,No
+134,Frames,2021-12-14,Rac325,Imortadores Neptuno,14.0,760,0,30,No
+135,Frames,2021-12-14,Rac325,Imortadores Neptuno,14.0,760,0,30,No
+136,Frames,2023-06-25,Rac564,Imortadores Neptuno,15.0,150,10,30,No
+137,Frames,2023-06-25,14City,Imortadores Neptuno,15.0,150,10,30,No
+138,Frames,2023-08-12,Rac564,Imortadores Neptuno,16.25,650,0,30,No
+139,Frames,2023-08-12,Rac564,Imortadores Neptuno,16.25,650,0,30,No
+140,Tyres,2021-12-30,Tubular,Tyresaz,18.4,1230,0,30,No
+141,Tyres,2021-12-30,Tubeless,Tyresaz,18.4,1230,0,30,No
+142,Gear Components,2021-07-14,Chain,Z123,21.0,220,30,30,No
+143,Gear Components,2021-07-14,Chain,Z123,21.0,220,30,30,No
+144,Brake System,2022-01-20,Pads,Cyclesaz,33.25,220,80,30,No
+145,Brake System,2022-01-20,Pads,Cyclesaz,33.25,220,80,30,No
+146,Brake System,2022-01-09,Levers,Cyclesaz,38.0,210,10,30,No
+147,Brake System,2022-01-09,Cables,Cyclesaz,38.0,210,10,30,No
+148,Frames,2021-12-13,Zelectric,Imortadores Neptuno,43.9,490,0,30,No
+149,Frames,2021-12-13,A1Mountain,Imortadores Neptuno,43.9,490,0,30,No
+150,,,,,4385.419999999998,56920,1560,1820,
